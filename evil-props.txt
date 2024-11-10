@@ -1,0 +1,1125 @@
+# GUI PROPS
+/GUI/ColoursCol
+/GUI/ColoursColDist
+/GUI/ColoursDepth
+/GUI/ColoursLED
+/GUI/FactoryReset
+/GUI/GuiTestStatus
+/GUI/InitStateRestored
+/GUI/LockScreenOpen
+/GUI/Quit
+/GUI/Retro
+/GUI/Scripted/%1
+/GUI/SetlistMode
+/GUI/SetlistViewConfig
+/GUI/ShowMouseControls
+/GUI/UpdateDFU
+
+# HOST PROPS
+/Host/AudioDeviceBufferSizes
+/Host/AudioDeviceSampleRates
+
+# CLIENT PROPS
+/Client/Assignments/MidiSync/InDevices
+/Client/Assignments/MidiSync/MBCIn
+/Client/Assignments/MidiSync/MBCInBPM
+/Client/Assignments/MidiSync/MBCOut
+/Client/Preferences/MBCOutputCompensation
+/Client/Shift
+
+# ENGINE PROPS
+/Engine
+/Engine/AudioCtrl/External/ExternalReturnStereo
+/Engine/AudioCtrl/External/ExternalSendStereo
+/Engine/AudioCtrl/GlobalEQAmp/Freq1
+/Engine/AudioCtrl/GlobalEQAmp/Freq2
+/Engine/AudioCtrl/GlobalEQAmp/Freq3
+/Engine/AudioCtrl/GlobalEQAmp/Freq4
+/Engine/AudioCtrl/GlobalEQAmp/Gain1
+/Engine/AudioCtrl/GlobalEQAmp/Gain2
+/Engine/AudioCtrl/GlobalEQAmp/Gain3
+/Engine/AudioCtrl/GlobalEQAmp/Gain4
+/Engine/AudioCtrl/GlobalEQAmp/MasterGain
+/Engine/AudioCtrl/GlobalEQAmp/On
+/Engine/AudioCtrl/GlobalEQAmp/Q1
+/Engine/AudioCtrl/GlobalEQAmp/Q2
+/Engine/AudioCtrl/GlobalEQAmp/Q3
+/Engine/AudioCtrl/GlobalEQAmp/Q4
+/Engine/AudioCtrl/GlobalEQAmp/Type1
+/Engine/AudioCtrl/GlobalEQAmp/Type4
+/Engine/AudioCtrl/GlobalEQMain/Freq1
+/Engine/AudioCtrl/GlobalEQMain/Freq2
+/Engine/AudioCtrl/GlobalEQMain/Freq3
+/Engine/AudioCtrl/GlobalEQMain/Freq4
+/Engine/AudioCtrl/GlobalEQMain/Gain1
+/Engine/AudioCtrl/GlobalEQMain/Gain2
+/Engine/AudioCtrl/GlobalEQMain/Gain3
+/Engine/AudioCtrl/GlobalEQMain/Gain4
+/Engine/AudioCtrl/GlobalEQMain/MasterGain
+/Engine/AudioCtrl/GlobalEQMain/On
+/Engine/AudioCtrl/GlobalEQMain/Q1
+/Engine/AudioCtrl/GlobalEQMain/Q2
+/Engine/AudioCtrl/GlobalEQMain/Q3
+/Engine/AudioCtrl/GlobalEQMain/Q4
+/Engine/AudioCtrl/GlobalEQMain/Type1
+/Engine/AudioCtrl/GlobalEQMain/Type4
+/Engine/AudioCtrl/Input/RigInput
+/Engine/AudioCtrl/Input/SampleRate
+/Engine/AudioCtrl/Input/TunerMuting
+/Engine/AudioCtrl/Input/TunerOn
+/Engine/AudioCtrl/Input/USBInGain
+/Engine/AudioCtrl/Internal/RestrictCPU
+/Engine/AudioCtrl/Internal/RigCPUPredict
+/Engine/AudioCtrl/Internal/USBStreaming
+/Engine/AudioCtrl/OtherSettings/CabLink
+/Engine/AudioCtrl/OtherSettings/LooperLoc
+/Engine/AudioCtrl/Output/AltSignalSource
+/Engine/AudioCtrl/Output/AuxBlend
+/Engine/AudioCtrl/Output/HeadSource
+/Engine/AudioCtrl/Output/MasterSource
+/Engine/AudioCtrl/Output/ToAmpSource
+/Engine/AudioCtrl/Output/USBAudio
+/Engine/AudioCtrl/Output/USBAudioMode
+/Engine/ControllerDevicesControl/RefreshControllerDevices
+/Engine/FFTCtrl/AnalysisAddInputGain
+/Engine/FFTCtrl/AnalysisInGain
+/Engine/FFTCtrl/GuitarAnalysis
+/Engine/FFTCtrl/MonoMode
+/Engine/FFTCtrl/TunerCents
+/Engine/FFTCtrl/TunerRef
+/Engine/FFTCtrl/TunerString
+/Engine/FootSwitch/
+/Engine/FootSwitch/AutoAssignments
+/Engine/FootSwitch/FootSwitch%1
+/Engine/FootSwitch/FootSwitchAssignmentChanged
+/Engine/FootSwitch/FootSwitchColour%1
+/Engine/FootSwitch/FootSwitchOn%1
+/Engine/FootSwitch/FootSwitchText%1
+/Engine/FootSwitch/FootSwitchTimer%1
+/Engine/FootSwitch/LastSceneState
+/Engine/FootSwitch/MacroColour%1
+/Engine/FootSwitch/Mode%1
+/Engine/FootSwitch/ModeNew%1
+/Engine/FootSwitch/Module%1
+/Engine/FootSwitch/ModuleList%1
+/Engine/FootSwitch/MoveDst
+/Engine/FootSwitch/MoveSrc
+/Engine/FootSwitch/Operation%1
+/Engine/FootSwitch/OperationList%1
+/Engine/FootSwitch/Scene%1
+/Engine/FootSwitch/Scene%1Slot%2Preset
+/Engine/FootSwitch/SceneNumberOfStates%1
+/Engine/FootSwitch/SceneState%1
+/Engine/FootSwitch/State%1ExtAmp%2
+/Engine/FootSwitch/State%1MacroColour%2
+/Engine/FootSwitch/State%1Scene%2
+/Engine/FootSwitch/State%1Scene%2Slot%3Preset
+/Engine/FootSwitch/TemporaryAssignment
+/Engine/FootSwitch/UserFootSwitchText%1
+/Engine/GlobalPedalCtrl/BlockHardSyncing
+/Engine/GlobalPedalCtrl/ExternalPedalMode
+/Engine/GlobalPedalCtrl/PedalAssignment
+/Engine/GlobalPedalCtrl/PedalAssignmentEdit
+/Engine/GlobalPedalCtrl/PedalIsWired
+/Engine/InputLock/Lock
+/Engine/InputLock/LockGuit
+/Engine/InputMeter/Current
+/Engine/InputMeter/Peak
+/Engine/LiveAssignments/MoveDst
+/Engine/LiveAssignments/MoveSrc
+/Engine/Looper/Clear
+/Engine/Looper/Colour
+/Engine/Looper/DirectionChange
+/Engine/Looper/DoubleLen
+/Engine/Looper/DoubleSpeed
+/Engine/Looper/Feedback
+/Engine/Looper/HalfLen
+/Engine/Looper/HalfSpeed
+/Engine/Looper/Insert
+/Engine/Looper/InsertState
+/Engine/Looper/InsertText
+/Engine/Looper/Mix
+/Engine/Looper/Mute
+/Engine/Looper/MuteText
+/Engine/Looper/Play
+/Engine/Looper/PlayText
+/Engine/Looper/RecState
+/Engine/Looper/Record
+/Engine/Looper/RecordText
+/Engine/Looper/Reverse
+/Engine/Looper/Rsrvd
+/Engine/Looper/StartState
+/Engine/Looper/Stop
+/Engine/Looper/Undo
+/Engine/Looper/UndoText
+/Engine/MIDICtrl/Channel
+/Engine/MIDICtrl/MIDIThrough
+/Engine/MIDICtrl/ReceiveProgramChange
+/Engine/MIDICtrl/SendProgramChange
+/Engine/Mixer/Channel1/Volume/Level
+/Engine/Mixer/Fx/Bank1/Button1
+/Engine/Mixer/Fx/Bank1/Knob1
+/Engine/MixerCtrl/
+/Engine/MixerCtrl/Chain/CanDouble%1
+/Engine/MixerCtrl/Chain/DeferEffectLoading
+/Engine/MixerCtrl/Chain/ExternalExists
+/Engine/MixerCtrl/Chain/ModuleType%1
+/Engine/MixerCtrl/Chain/ModuleTypeSimplified%1
+/Engine/MixerCtrl/Chain/Para1Level
+/Engine/MixerCtrl/Chain/Para1Pan
+/Engine/MixerCtrl/Chain/Para2Level
+/Engine/MixerCtrl/Chain/Para2Pan
+/Engine/MixerCtrl/Chain/ParaDelay
+/Engine/MixerCtrl/Chain/Routing
+/Engine/MixerCtrl/Chain/TailRendering
+/Engine/MixerCtrl/Chain/Tails
+/Engine/MixerCtrl/Rig/RigCurPedalAB
+/Engine/MixerCtrl2/
+/Engine/MixerCtrl2/Chain/CanDouble%1
+/Engine/MixerCtrl2/Chain/ExternalExists
+/Engine/MixerCtrl2/Chain/ModuleType%1
+/Engine/MixerCtrl2/Chain/ModuleTypeSimplified%1
+/Engine/MixerCtrl2/Chain/Para1Level
+/Engine/MixerCtrl2/Chain/Para1Pan
+/Engine/MixerCtrl2/Chain/Para2Level
+/Engine/MixerCtrl2/Chain/Para2Pan
+/Engine/MixerCtrl2/Chain/ParaDelay
+/Engine/MixerCtrl2/Chain/Routing
+/Engine/MixerCtrl2/Chain/TailRendering
+/Engine/MixerCtrl2/Chain/Tails
+/Engine/MixerCtrl2/Rig/RigCurPedalAB
+/Engine/Party Verb 2/On
+/Engine/Party Verb/On
+/Engine/Patch
+/Engine/Patch/
+/Engine/Patch/8-Bit Crush 2
+/Engine/Patch/AIR Flanger 2/Depth
+/Engine/Patch/AIR Flanger 2/Feedback
+/Engine/Patch/AIR Flanger 2/Mix
+/Engine/Patch/AIR Flanger 2/On
+/Engine/Patch/AIR Flanger 2/Rate
+/Engine/Patch/AIR Flanger 2/Sync
+/Engine/Patch/AIR Flanger 2/Width
+/Engine/Patch/AIR Flanger/Depth
+/Engine/Patch/AIR Flanger/Feedback
+/Engine/Patch/AIR Flanger/Mix
+/Engine/Patch/AIR Flanger/On
+/Engine/Patch/AIR Flanger/Rate
+/Engine/Patch/AIR Flanger/Sync
+/Engine/Patch/AIR Flanger/Width
+/Engine/Patch/AIR Reverb 2/Color
+/Engine/Patch/AIR Reverb 2/Mix
+/Engine/Patch/AIR Reverb 2/Mode
+/Engine/Patch/AIR Reverb 2/On
+/Engine/Patch/AIR Reverb 2/Size
+/Engine/Patch/AIR Reverb 2/Tails
+/Engine/Patch/AIR Reverb 2/Time
+/Engine/Patch/AIR Reverb/Color
+/Engine/Patch/AIR Reverb/Mix
+/Engine/Patch/AIR Reverb/Mode
+/Engine/Patch/AIR Reverb/On
+/Engine/Patch/AIR Reverb/Size
+/Engine/Patch/AIR Reverb/Tails
+/Engine/Patch/AIR Reverb/Time
+/Engine/Patch/AIR Vibrato 2/Depth
+/Engine/Patch/AIR Vibrato 2/Offset
+/Engine/Patch/AIR Vibrato 2/On
+/Engine/Patch/AIR Vibrato 2/Rate
+/Engine/Patch/AIR Vibrato 2/Shape
+/Engine/Patch/AIR Vibrato 2/Sync
+/Engine/Patch/AIR Vibrato/Depth
+/Engine/Patch/AIR Vibrato/Offset
+/Engine/Patch/AIR Vibrato/On
+/Engine/Patch/AIR Vibrato/Rate
+/Engine/Patch/AIR Vibrato/Shape
+/Engine/Patch/AIR Vibrato/Sync
+/Engine/Patch/Acoust Sim 2/Body
+/Engine/Patch/Acoust Sim 2/Level
+/Engine/Patch/Acoust Sim 2/Mode
+/Engine/Patch/Acoust Sim 2/On
+/Engine/Patch/Acoust Sim 2/Tone
+/Engine/Patch/Acoust Sim/Body
+/Engine/Patch/Acoust Sim/Level
+/Engine/Patch/Acoust Sim/Mode
+/Engine/Patch/Acoust Sim/On
+/Engine/Patch/Acoust Sim/Tone
+/Engine/Patch/Ambi Verb 2/Attack
+/Engine/Patch/Ambi Verb 2/Mix
+/Engine/Patch/Ambi Verb 2/Mod
+/Engine/Patch/Ambi Verb 2/On
+/Engine/Patch/Ambi Verb 2/Release
+/Engine/Patch/Ambi Verb 2/Tails
+/Engine/Patch/Ambi Verb 2/Tone
+/Engine/Patch/Ambi Verb/Attack
+/Engine/Patch/Ambi Verb/Mix
+/Engine/Patch/Ambi Verb/Mod
+/Engine/Patch/Ambi Verb/On
+/Engine/Patch/Ambi Verb/Release
+/Engine/Patch/Ambi Verb/Tails
+/Engine/Patch/Ambi Verb/Tone
+/Engine/Patch/Amp
+/Engine/Patch/Amp 2
+/Engine/Patch/Amp 2/Colour
+/Engine/Patch/Amp 2/DoubleStates
+/Engine/Patch/Amp 2/Doubling
+/Engine/Patch/Amp 2/GainA
+/Engine/Patch/Amp 2/GainA2
+/Engine/Patch/Amp 2/On
+/Engine/Patch/Amp 2/Treble
+/Engine/Patch/Amp 2/Treble2
+/Engine/Patch/Amp 2/Type
+/Engine/Patch/Amp 2/Type2
+/Engine/Patch/Amp/Colour
+/Engine/Patch/Amp/DoubleStates
+/Engine/Patch/Amp/Doubling
+/Engine/Patch/Amp/GainA
+/Engine/Patch/Amp/GainA2
+/Engine/Patch/Amp/On
+/Engine/Patch/Amp/Treble
+/Engine/Patch/Amp/Treble2
+/Engine/Patch/Amp/Type
+/Engine/Patch/Amp/Type2
+/Engine/Patch/Anxiety OD
+/Engine/Patch/Anxiety OD 2/Drive
+/Engine/Patch/Anxiety OD 2/Hi-Lo
+/Engine/Patch/Anxiety OD 2/Level
+/Engine/Patch/Anxiety OD 2/On
+/Engine/Patch/Anxiety OD 2/Tone
+/Engine/Patch/Anxiety OD V2
+/Engine/Patch/Anxiety OD V2 2
+/Engine/Patch/Auto Swell 2/Attack
+/Engine/Patch/Auto Swell 2/Mode
+/Engine/Patch/Auto Swell 2/On
+/Engine/Patch/Auto Swell 2/Release
+/Engine/Patch/Auto Swell 2/Threshold
+/Engine/Patch/Auto Swell/Attack
+/Engine/Patch/Auto Swell/Mode
+/Engine/Patch/Auto Swell/On
+/Engine/Patch/Auto Swell/Release
+/Engine/Patch/Auto Swell/Threshold
+/Engine/Patch/BBD Delay 2/Tails
+/Engine/Patch/BBD Delay/Tails
+/Engine/Patch/Bass EQ 2/Frequency
+/Engine/Patch/Bass EQ 2/Level
+/Engine/Patch/Bass EQ 2/On
+/Engine/Patch/Bass EQ 2/Q
+/Engine/Patch/Bass EQ/Frequency
+/Engine/Patch/Bass EQ/Level
+/Engine/Patch/Bass EQ/On
+/Engine/Patch/Bass EQ/Q
+/Engine/Patch/Black OP 2/Cutoff
+/Engine/Patch/Black OP 2/Distortion
+/Engine/Patch/Black OP 2/On
+/Engine/Patch/Black OP 2/Volume
+/Engine/Patch/Black OP/Cutoff
+/Engine/Patch/Black OP/Distortion
+/Engine/Patch/Black OP/On
+/Engine/Patch/Black OP/Volume
+/Engine/Patch/Black Wah 2/Level
+/Engine/Patch/Black Wah 2/On
+/Engine/Patch/Black Wah/Level
+/Engine/Patch/Black Wah/MakeUp
+/Engine/Patch/Black Wah/On
+/Engine/Patch/Cab 2
+/Engine/Patch/Cab 2/
+/Engine/Patch/Cab 2/CabType
+/Engine/Patch/Cab 2/CabType2
+/Engine/Patch/Cab 2/Colour
+/Engine/Patch/Cab 2/DoubleStates
+/Engine/Patch/Cab 2/Doubling
+/Engine/Patch/Cab 2/On
+/Engine/Patch/Cab/
+/Engine/Patch/Cab/CabType
+/Engine/Patch/Cab/CabType2
+/Engine/Patch/Cab/Colour
+/Engine/Patch/Cab/DoubleStates
+/Engine/Patch/Cab/Doubling
+/Engine/Patch/Cab/On
+/Engine/Patch/Capo 2/Level
+/Engine/Patch/Capo 2/Mix
+/Engine/Patch/Capo 2/Mode
+/Engine/Patch/Capo 2/On
+/Engine/Patch/Capo/Level
+/Engine/Patch/Capo/Mix
+/Engine/Patch/Capo/Mode
+/Engine/Patch/Capo/On
+/Engine/Patch/Chain/
+/Engine/Patch/Chain/CanDouble%1
+/Engine/Patch/Chain/ExternalExists
+/Engine/Patch/Chain/ModuleType%1
+/Engine/Patch/Chain/ModuleTypeSimplified%1
+/Engine/Patch/Chain/Para1Level
+/Engine/Patch/Chain/Para1Pan
+/Engine/Patch/Chain/Para2Level
+/Engine/Patch/Chain/Para2Pan
+/Engine/Patch/Chain/ParaDelay
+/Engine/Patch/Chain/Routing
+/Engine/Patch/Chain/Tails
+/Engine/Patch/Chord Wham 2/Delay
+/Engine/Patch/Chord Wham 2/Fdbk
+/Engine/Patch/Chord Wham 2/FdbkHighCut
+/Engine/Patch/Chord Wham 2/Mix
+/Engine/Patch/Chord Wham 2/Mode
+/Engine/Patch/Chord Wham 2/Offset
+/Engine/Patch/Chord Wham 2/On
+/Engine/Patch/Chord Wham 2/Pitch
+/Engine/Patch/Chord Wham 2/Sync
+/Engine/Patch/Chord Wham 2/Tails
+/Engine/Patch/Chord Wham/Delay
+/Engine/Patch/Chord Wham/Fdbk
+/Engine/Patch/Chord Wham/FdbkHighCut
+/Engine/Patch/Chord Wham/Mix
+/Engine/Patch/Chord Wham/Mode
+/Engine/Patch/Chord Wham/Offset
+/Engine/Patch/Chord Wham/On
+/Engine/Patch/Chord Wham/Pitch
+/Engine/Patch/Chord Wham/Sync
+/Engine/Patch/Chord Wham/Tails
+/Engine/Patch/Chorus 2/Depth
+/Engine/Patch/Chorus 2/Feedback
+/Engine/Patch/Chorus 2/Mix
+/Engine/Patch/Chorus 2/On
+/Engine/Patch/Chorus 2/Rate
+/Engine/Patch/Chorus 2/Sync
+/Engine/Patch/Chorus/Depth
+/Engine/Patch/Chorus/Feedback
+/Engine/Patch/Chorus/Mix
+/Engine/Patch/Chorus/On
+/Engine/Patch/Chorus/Rate
+/Engine/Patch/Chorus/Sync
+/Engine/Patch/D1 Dist 2/Dist
+/Engine/Patch/D1 Dist 2/Level
+/Engine/Patch/D1 Dist 2/On
+/Engine/Patch/D1 Dist 2/Tone
+/Engine/Patch/D1 Dist/Dist
+/Engine/Patch/D1 Dist/Level
+/Engine/Patch/D1 Dist/On
+/Engine/Patch/D1 Dist/Tone
+/Engine/Patch/D250 Drive 2/Gain
+/Engine/Patch/D250 Drive 2/Level
+/Engine/Patch/D250 Drive 2/On
+/Engine/Patch/D250 Drive/Gain
+/Engine/Patch/D250 Drive/Level
+/Engine/Patch/D250 Drive/On
+/Engine/Patch/DC Distort 2/Bass
+/Engine/Patch/DC Distort 2/Gain
+/Engine/Patch/DC Distort 2/On
+/Engine/Patch/DC Distort 2/Treble
+/Engine/Patch/DC Distort 2/Volume
+/Engine/Patch/DC Distort/Bass
+/Engine/Patch/DC Distort/Gain
+/Engine/Patch/DC Distort/On
+/Engine/Patch/DC Distort/Treble
+/Engine/Patch/DC Distort/Volume
+/Engine/Patch/Dim Chorus 2/Four
+/Engine/Patch/Dim Chorus 2/Mode
+/Engine/Patch/Dim Chorus 2/One
+/Engine/Patch/Dim Chorus 2/Three
+/Engine/Patch/Dim Chorus 2/Two
+/Engine/Patch/Dim Chorus/Four
+/Engine/Patch/Dim Chorus/Mode
+/Engine/Patch/Dim Chorus/One
+/Engine/Patch/Dim Chorus/Three
+/Engine/Patch/Dim Chorus/Two
+/Engine/Patch/Drop Tune 2/Level
+/Engine/Patch/Drop Tune 2/Mix
+/Engine/Patch/Drop Tune 2/Mode
+/Engine/Patch/Drop Tune 2/On
+/Engine/Patch/Drop Tune/Level
+/Engine/Patch/Drop Tune/Mix
+/Engine/Patch/Drop Tune/Mode
+/Engine/Patch/Drop Tune/On
+/Engine/Patch/Dyn Delay 2/Tails
+/Engine/Patch/Dyn Delay/Tails
+/Engine/Patch/DynIII Comp 2/Attack
+/Engine/Patch/DynIII Comp 2/Gain
+/Engine/Patch/DynIII Comp 2/Knee
+/Engine/Patch/DynIII Comp 2/On
+/Engine/Patch/DynIII Comp 2/Ratio
+/Engine/Patch/DynIII Comp 2/Release
+/Engine/Patch/DynIII Comp 2/Threshold
+/Engine/Patch/DynIII Comp/Attack
+/Engine/Patch/DynIII Comp/Gain
+/Engine/Patch/DynIII Comp/Knee
+/Engine/Patch/DynIII Comp/On
+/Engine/Patch/DynIII Comp/Ratio
+/Engine/Patch/DynIII Comp/Release
+/Engine/Patch/DynIII Comp/Threshold
+/Engine/Patch/Eleven Reverb 2/Decay
+/Engine/Patch/Eleven Reverb 2/Mix
+/Engine/Patch/Eleven Reverb 2/Mode
+/Engine/Patch/Eleven Reverb 2/On
+/Engine/Patch/Eleven Reverb 2/Pre-Delay
+/Engine/Patch/Eleven Reverb 2/Tails
+/Engine/Patch/Eleven Reverb 2/Tone
+/Engine/Patch/Eleven Reverb/Decay
+/Engine/Patch/Eleven Reverb/Mix
+/Engine/Patch/Eleven Reverb/Mode
+/Engine/Patch/Eleven Reverb/On
+/Engine/Patch/Eleven Reverb/Pre-Delay
+/Engine/Patch/Eleven Reverb/Tails
+/Engine/Patch/Eleven Reverb/Tone
+/Engine/Patch/Env Filter 2/On
+/Engine/Patch/Env Filter 2/Range
+/Engine/Patch/Env Filter 2/Sensitivity
+/Engine/Patch/Env Filter/On
+/Engine/Patch/Env Filter/Range
+/Engine/Patch/Env Filter/Sensitivity
+/Engine/Patch/FX-Loop/Delay
+/Engine/Patch/FX-Loop/Mix
+/Engine/Patch/FX-Loop/On
+/Engine/Patch/FX-Loop/Return
+/Engine/Patch/FX-Loop/Send
+/Engine/Patch/Feedback 2/Attack
+/Engine/Patch/Feedback 2/Mix
+/Engine/Patch/Feedback 2/Mode
+/Engine/Patch/Feedback 2/On
+/Engine/Patch/Feedback 2/Range
+/Engine/Patch/Feedback 2/Release
+/Engine/Patch/Feedback 2/Volume
+/Engine/Patch/Feedback/Attack
+/Engine/Patch/Feedback/Mix
+/Engine/Patch/Feedback/Mode
+/Engine/Patch/Feedback/On
+/Engine/Patch/Feedback/Range
+/Engine/Patch/Feedback/Release
+/Engine/Patch/Feedback/Volume
+/Engine/Patch/Gate 2/Attack
+/Engine/Patch/Gate 2/FilterThreshhold
+/Engine/Patch/Gate 2/On
+/Engine/Patch/Gate 2/Release
+/Engine/Patch/Gate 2/Threshold
+/Engine/Patch/Gate/Attack
+/Engine/Patch/Gate/FilterThreshhold
+/Engine/Patch/Gate/On
+/Engine/Patch/Gate/Release
+/Engine/Patch/Gate/Threshold
+/Engine/Patch/Gonkulator 2/Depth
+/Engine/Patch/Gonkulator 2/On
+/Engine/Patch/Gonkulator 2/Rate
+/Engine/Patch/Gonkulator 2/Shape
+/Engine/Patch/Gonkulator/Depth
+/Engine/Patch/Gonkulator/On
+/Engine/Patch/Gonkulator/Rate
+/Engine/Patch/Gonkulator/Shape
+/Engine/Patch/Gray Comp 2/Level
+/Engine/Patch/Gray Comp 2/LevelTweak
+/Engine/Patch/Gray Comp 2/On
+/Engine/Patch/Gray Comp 2/Sustain
+/Engine/Patch/Gray Comp/Level
+/Engine/Patch/Gray Comp/LevelTweak
+/Engine/Patch/Gray Comp/On
+/Engine/Patch/Gray Comp/Sustain
+/Engine/Patch/Green JRC-OD 2/Drive
+/Engine/Patch/Green JRC-OD 2/Level
+/Engine/Patch/Green JRC-OD 2/On
+/Engine/Patch/Green JRC-OD 2/Tone
+/Engine/Patch/Green JRC-OD/Drive
+/Engine/Patch/Green JRC-OD/Level
+/Engine/Patch/Green JRC-OD/On
+/Engine/Patch/Green JRC-OD/Tone
+/Engine/Patch/Harm 2/Mix
+/Engine/Patch/Harm 2/Mode
+/Engine/Patch/Harm 2/Offset
+/Engine/Patch/Harm 2/On
+/Engine/Patch/Harm 2/Pitch
+/Engine/Patch/Harm/Mix
+/Engine/Patch/Harm/Mode
+/Engine/Patch/Harm/Offset
+/Engine/Patch/Harm/On
+/Engine/Patch/Harm/Pitch
+/Engine/Patch/Hold
+/Engine/Patch/Hold 2
+/Engine/Patch/IR
+/Engine/Patch/IR (1024)
+/Engine/Patch/IR (1024) 2
+/Engine/Patch/IR (1024) 2/IR
+/Engine/Patch/IR (1024) 2/IR2
+/Engine/Patch/IR (1024)/IR
+/Engine/Patch/IR (1024)/IR2
+/Engine/Patch/IR 2
+/Engine/Patch/IR 2/IR
+/Engine/Patch/IR 2/IR2
+/Engine/Patch/IR/IR
+/Engine/Patch/IR/IR2
+/Engine/Patch/Input/
+/Engine/Patch/Input/FilterThreshold
+/Engine/Patch/Input/GateRelease
+/Engine/Patch/Input/GateThresh
+/Engine/Patch/Input/Impedance
+/Engine/Patch/Input/InputGain
+/Engine/Patch/Input/PresetName
+/Engine/Patch/Input/RigInput
+/Engine/Patch/K Drive 2/Drive
+/Engine/Patch/K Drive 2/Level
+/Engine/Patch/K Drive 2/On
+/Engine/Patch/K Drive 2/Tone
+/Engine/Patch/K Drive/Drive
+/Engine/Patch/K Drive/Level
+/Engine/Patch/K Drive/On
+/Engine/Patch/K Drive/Tone
+/Engine/Patch/MX Dist 2/Dist
+/Engine/Patch/MX Dist 2/On
+/Engine/Patch/MX Dist 2/Output
+/Engine/Patch/MX Dist/Dist
+/Engine/Patch/MX Dist/On
+/Engine/Patch/MX Dist/Output
+/Engine/Patch/Mix/Para1Level
+/Engine/Patch/Mix/Para1Pan
+/Engine/Patch/Mix/Para2Level
+/Engine/Patch/Mix/Para2Pan
+/Engine/Patch/Mix/ParaDelay
+/Engine/Patch/More Wah 2/Level
+/Engine/Patch/More Wah 2/MakeUp
+/Engine/Patch/More Wah 2/On
+/Engine/Patch/More Wah/Level
+/Engine/Patch/More Wah/MakeUp
+/Engine/Patch/More Wah/On
+/Engine/Patch/Noise Filter 2/Attack
+/Engine/Patch/Noise Filter 2/Hi_Range
+/Engine/Patch/Noise Filter 2/Hi_Thresh
+/Engine/Patch/Noise Filter 2/Lo_Range
+/Engine/Patch/Noise Filter 2/Lo_Thresh
+/Engine/Patch/Noise Filter 2/On
+/Engine/Patch/Noise Filter 2/Release
+/Engine/Patch/Noise Filter/Attack
+/Engine/Patch/Noise Filter/Hi_Range
+/Engine/Patch/Noise Filter/Hi_Thresh
+/Engine/Patch/Noise Filter/Lo_Range
+/Engine/Patch/Noise Filter/Lo_Thresh
+/Engine/Patch/Noise Filter/On
+/Engine/Patch/Noise Filter/Release
+/Engine/Patch/Octaves 2/Mix
+/Engine/Patch/Octaves 2/OctaveA
+/Engine/Patch/Octaves 2/OctaveB
+/Engine/Patch/Octaves 2/On
+/Engine/Patch/Octaves Up 2/Mix
+/Engine/Patch/Octaves Up 2/OctaveA
+/Engine/Patch/Octaves Up 2/OctaveB
+/Engine/Patch/Octaves Up 2/On
+/Engine/Patch/Octaves Up 2/Width
+/Engine/Patch/Octaves Up/Mix
+/Engine/Patch/Octaves Up/OctaveA
+/Engine/Patch/Octaves Up/OctaveB
+/Engine/Patch/Octaves Up/On
+/Engine/Patch/Octaves Up/Width
+/Engine/Patch/Octaves/Mix
+/Engine/Patch/Octaves/OctaveA
+/Engine/Patch/Octaves/OctaveB
+/Engine/Patch/Octaves/On
+/Engine/Patch/Orange Phaser 2/On
+/Engine/Patch/Orange Phaser 2/Rate
+/Engine/Patch/Orange Phaser 2/Stereo
+/Engine/Patch/Orange Phaser 2/Sync
+/Engine/Patch/Orange Phaser/On
+/Engine/Patch/Orange Phaser/Rate
+/Engine/Patch/Orange Phaser/Stereo
+/Engine/Patch/Orange Phaser/Sync
+/Engine/Patch/Output/
+/Engine/Patch/Output/ToAmpGain
+/Engine/Patch/Panner 2/Depth
+/Engine/Patch/Panner 2/On
+/Engine/Patch/Panner 2/Pan
+/Engine/Patch/Panner 2/Rate
+/Engine/Patch/Panner 2/Shape
+/Engine/Patch/Panner 2/Sync
+/Engine/Patch/Panner/Depth
+/Engine/Patch/Panner/On
+/Engine/Patch/Panner/Pan
+/Engine/Patch/Panner/Rate
+/Engine/Patch/Panner/Shape
+/Engine/Patch/Panner/Sync
+/Engine/Patch/Party Verb 2/Damp
+/Engine/Patch/Party Verb 2/Gain
+/Engine/Patch/Party Verb 2/Mix
+/Engine/Patch/Party Verb 2/Mode
+/Engine/Patch/Party Verb 2/Tails
+/Engine/Patch/Party Verb 2/Time
+/Engine/Patch/Party Verb 2/Width
+/Engine/Patch/Party Verb/Damp
+/Engine/Patch/Party Verb/Gain
+/Engine/Patch/Party Verb/Mix
+/Engine/Patch/Party Verb/Mode
+/Engine/Patch/Party Verb/Tails
+/Engine/Patch/Party Verb/Time
+/Engine/Patch/Party Verb/Width
+/Engine/Patch/Pitch Delay 2/Tails
+/Engine/Patch/Pitch Delay/Tails
+/Engine/Patch/Reso Delay
+/Engine/Patch/Reso Delay 2
+/Engine/Patch/Reverse Delay 2/Tails
+/Engine/Patch/Reverse Delay/Tails
+/Engine/Patch/Rig/ExtAmp
+/Engine/Patch/Rig/PresetName
+/Engine/Patch/Rig/RigCurPedalAB
+/Engine/Patch/Rig/Tempo
+/Engine/Patch/Rig/TempoFromMaster
+/Engine/Patch/Ring Mod 2/Mix
+/Engine/Patch/Ring Mod 2/On
+/Engine/Patch/Ring Mod 2/Rate
+/Engine/Patch/Ring Mod 2/Tone
+/Engine/Patch/Ring Mod/Mix
+/Engine/Patch/Ring Mod/On
+/Engine/Patch/Ring Mod/Rate
+/Engine/Patch/Ring Mod/Tone
+/Engine/Patch/Rotary 2/Balance
+/Engine/Patch/Rotary 2/Cabinet
+/Engine/Patch/Rotary 2/Mix
+/Engine/Patch/Rotary 2/Move
+/Engine/Patch/Rotary 2/On
+/Engine/Patch/Rotary 2/Speed
+/Engine/Patch/Rotary/Balance
+/Engine/Patch/Rotary/Cabinet
+/Engine/Patch/Rotary/Mix
+/Engine/Patch/Rotary/Move
+/Engine/Patch/Rotary/On
+/Engine/Patch/Rotary/Speed
+/Engine/Patch/Round Fuzz 2/Fuzz
+/Engine/Patch/Round Fuzz 2/On
+/Engine/Patch/Round Fuzz 2/Volume
+/Engine/Patch/Round Fuzz/Fuzz
+/Engine/Patch/Round Fuzz/On
+/Engine/Patch/Round Fuzz/Volume
+/Engine/Patch/S1 Drive 2/Drive
+/Engine/Patch/S1 Drive 2/Level
+/Engine/Patch/S1 Drive 2/On
+/Engine/Patch/S1 Drive 2/Tone
+/Engine/Patch/S1 Drive/Drive
+/Engine/Patch/S1 Drive/Level
+/Engine/Patch/S1 Drive/On
+/Engine/Patch/S1 Drive/Tone
+/Engine/Patch/Shimmer 2/Delay
+/Engine/Patch/Shimmer 2/HighCut
+/Engine/Patch/Shimmer 2/Interval
+/Engine/Patch/Shimmer 2/Mix
+/Engine/Patch/Shimmer 2/On
+/Engine/Patch/Shimmer 2/ReverbTime
+/Engine/Patch/Shimmer 2/Sync
+/Engine/Patch/Shimmer 2/Tails
+/Engine/Patch/Shimmer 2/Tone
+/Engine/Patch/Shimmer 2/Width
+/Engine/Patch/Shimmer/Delay
+/Engine/Patch/Shimmer/HighCut
+/Engine/Patch/Shimmer/Interval
+/Engine/Patch/Shimmer/Mix
+/Engine/Patch/Shimmer/On
+/Engine/Patch/Shimmer/ReverbTime
+/Engine/Patch/Shimmer/Sync
+/Engine/Patch/Shimmer/Tails
+/Engine/Patch/Shimmer/Tone
+/Engine/Patch/Shimmer/Width
+/Engine/Patch/Shine Wah 2/Level
+/Engine/Patch/Shine Wah 2/On
+/Engine/Patch/Shine Wah/Level
+/Engine/Patch/Shine Wah/MakeUp
+/Engine/Patch/Shine Wah/On
+/Engine/Patch/Side Comp 2/Attack
+/Engine/Patch/Side Comp 2/Gain
+/Engine/Patch/Side Comp 2/Knee
+/Engine/Patch/Side Comp 2/On
+/Engine/Patch/Side Comp 2/Ratio
+/Engine/Patch/Side Comp 2/Release
+/Engine/Patch/Side Comp 2/Threshold
+/Engine/Patch/Side Comp/Attack
+/Engine/Patch/Side Comp/Gain
+/Engine/Patch/Side Comp/Knee
+/Engine/Patch/Side Comp/On
+/Engine/Patch/Side Comp/Ratio
+/Engine/Patch/Side Comp/Release
+/Engine/Patch/Side Comp/Threshold
+/Engine/Patch/Smart Harm 2
+/Engine/Patch/Spring Reverb 2/Decay
+/Engine/Patch/Spring Reverb 2/DiffusionOn
+/Engine/Patch/Spring Reverb 2/Mix
+/Engine/Patch/Spring Reverb 2/On
+/Engine/Patch/Spring Reverb 2/Tails
+/Engine/Patch/Spring Reverb 2/Tone
+/Engine/Patch/Spring Reverb 2/Width
+/Engine/Patch/Spring Reverb/Decay
+/Engine/Patch/Spring Reverb/DiffusionOn
+/Engine/Patch/Spring Reverb/Mix
+/Engine/Patch/Spring Reverb/On
+/Engine/Patch/Spring Reverb/Tails
+/Engine/Patch/Spring Reverb/Tone
+/Engine/Patch/Spring Reverb/Width
+/Engine/Patch/Stereo Doubler 2/Intensity
+/Engine/Patch/Stereo Doubler 2/On
+/Engine/Patch/Stereo Doubler 2/Separation
+/Engine/Patch/Stereo Doubler 2/Width
+/Engine/Patch/Stereo Doubler/Intensity
+/Engine/Patch/Stereo Doubler/On
+/Engine/Patch/Stereo Doubler/Separation
+/Engine/Patch/Stereo Doubler/Width
+/Engine/Patch/Stone Phaser 2/Depth
+/Engine/Patch/Stone Phaser 2/Feedback
+/Engine/Patch/Stone Phaser 2/Mix
+/Engine/Patch/Stone Phaser 2/On
+/Engine/Patch/Stone Phaser 2/Rate
+/Engine/Patch/Stone Phaser 2/Stereo
+/Engine/Patch/Stone Phaser 2/Sync
+/Engine/Patch/Stone Phaser/Depth
+/Engine/Patch/Stone Phaser/Feedback
+/Engine/Patch/Stone Phaser/Mix
+/Engine/Patch/Stone Phaser/On
+/Engine/Patch/Stone Phaser/Rate
+/Engine/Patch/Stone Phaser/Stereo
+/Engine/Patch/Stone Phaser/Sync
+/Engine/Patch/Sustain 2/Attack
+/Engine/Patch/Sustain 2/Filter
+/Engine/Patch/Sustain 2/Mix
+/Engine/Patch/Sustain 2/Mode
+/Engine/Patch/Sustain 2/On
+/Engine/Patch/Sustain 2/Pedal
+/Engine/Patch/Sustain 2/Release
+/Engine/Patch/Sustain/Attack
+/Engine/Patch/Sustain/Filter
+/Engine/Patch/Sustain/Mix
+/Engine/Patch/Sustain/Mode
+/Engine/Patch/Sustain/On
+/Engine/Patch/Sustain/Pedal
+/Engine/Patch/Sustain/Release
+/Engine/Patch/SwitchMode
+/Engine/Patch/Tape Echo 2/Tails
+/Engine/Patch/Tape Echo/Tails
+/Engine/Patch/Time Warp 2/Delay
+/Engine/Patch/Time Warp 2/Feedback
+/Engine/Patch/Time Warp 2/Mix
+/Engine/Patch/Time Warp 2/On
+/Engine/Patch/Time Warp 2/Pedal
+/Engine/Patch/Time Warp 2/Sync
+/Engine/Patch/Time Warp 2/Tails
+/Engine/Patch/Time Warp/Delay
+/Engine/Patch/Time Warp/Feedback
+/Engine/Patch/Time Warp/Mix
+/Engine/Patch/Time Warp/On
+/Engine/Patch/Time Warp/Pedal
+/Engine/Patch/Time Warp/Sync
+/Engine/Patch/Time Warp/Tails
+/Engine/Patch/Tremolo 2/Depth
+/Engine/Patch/Tremolo 2/Offset
+/Engine/Patch/Tremolo 2/On
+/Engine/Patch/Tremolo 2/Rate
+/Engine/Patch/Tremolo 2/Shape
+/Engine/Patch/Tremolo 2/Sync
+/Engine/Patch/Tremolo/Depth
+/Engine/Patch/Tremolo/Offset
+/Engine/Patch/Tremolo/On
+/Engine/Patch/Tremolo/Rate
+/Engine/Patch/Tremolo/Shape
+/Engine/Patch/Tremolo/Sync
+/Engine/Patch/Tri Fuzz 2/On
+/Engine/Patch/Tri Fuzz 2/Sustain
+/Engine/Patch/Tri Fuzz 2/Tone
+/Engine/Patch/Tri Fuzz 2/Volume
+/Engine/Patch/Tri Fuzz/On
+/Engine/Patch/Tri Fuzz/Sustain
+/Engine/Patch/Tri Fuzz/Tone
+/Engine/Patch/Tri Fuzz/Volume
+/Engine/Patch/Tron Filter 2/Fat
+/Engine/Patch/Tron Filter 2/Freq
+/Engine/Patch/Tron Filter 2/Gain
+/Engine/Patch/Tron Filter 2/LFODepth
+/Engine/Patch/Tron Filter 2/Mix
+/Engine/Patch/Tron Filter 2/Mode
+/Engine/Patch/Tron Filter 2/On
+/Engine/Patch/Tron Filter 2/Reso
+/Engine/Patch/Tron Filter/Fat
+/Engine/Patch/Tron Filter/Freq
+/Engine/Patch/Tron Filter/Gain
+/Engine/Patch/Tron Filter/LFODepth
+/Engine/Patch/Tron Filter/Mix
+/Engine/Patch/Tron Filter/Mode
+/Engine/Patch/Tron Filter/On
+/Engine/Patch/Tron Filter/Reso
+/Engine/Patch/Tron Phaser 2/Depth
+/Engine/Patch/Tron Phaser 2/Feedback
+/Engine/Patch/Tron Phaser 2/Mix
+/Engine/Patch/Tron Phaser 2/On
+/Engine/Patch/Tron Phaser 2/Rate
+/Engine/Patch/Tron Phaser 2/Stereo
+/Engine/Patch/Tron Phaser 2/Sync
+/Engine/Patch/Tron Phaser/Depth
+/Engine/Patch/Tron Phaser/Feedback
+/Engine/Patch/Tron Phaser/Mix
+/Engine/Patch/Tron Phaser/On
+/Engine/Patch/Tron Phaser/Rate
+/Engine/Patch/Tron Phaser/Stereo
+/Engine/Patch/Tron Phaser/Sync
+/Engine/Patch/Twelve String 2/Level
+/Engine/Patch/Twelve String 2/On
+/Engine/Patch/Twelve String 2/Tone
+/Engine/Patch/Twelve String/Level
+/Engine/Patch/Twelve String/On
+/Engine/Patch/Twelve String/Tone
+/Engine/Patch/Vibe Phaser 2/Depth
+/Engine/Patch/Vibe Phaser 2/Mode
+/Engine/Patch/Vibe Phaser 2/On
+/Engine/Patch/Vibe Phaser 2/Rate
+/Engine/Patch/Vibe Phaser 2/Sync
+/Engine/Patch/Vibe Phaser 2/Volume
+/Engine/Patch/Vibe Phaser/Depth
+/Engine/Patch/Vibe Phaser/Mode
+/Engine/Patch/Vibe Phaser/On
+/Engine/Patch/Vibe Phaser/Rate
+/Engine/Patch/Vibe Phaser/Sync
+/Engine/Patch/Vibe Phaser/Volume
+/Engine/Patch/Vibrato 2/Depth
+/Engine/Patch/Vibrato 2/On
+/Engine/Patch/Vibrato 2/Rate
+/Engine/Patch/Vibrato 2/Sync
+/Engine/Patch/Vibrato 2/Width
+/Engine/Patch/Vibrato/Depth
+/Engine/Patch/Vibrato/On
+/Engine/Patch/Vibrato/Rate
+/Engine/Patch/Vibrato/Sync
+/Engine/Patch/Vibrato/Width
+/Engine/Patch/Volume 2/Linear
+/Engine/Patch/Volume 2/MinVolume
+/Engine/Patch/Volume 2/On
+/Engine/Patch/Volume 2/Volume
+/Engine/Patch/Volume/Linear
+/Engine/Patch/Volume/MinVolume
+/Engine/Patch/Volume/On
+/Engine/Patch/Volume/Volume
+/Engine/Patch/Wham 2/Mode
+/Engine/Patch/Wham 2/Offset
+/Engine/Patch/Wham 2/On
+/Engine/Patch/Wham 2/Pitch
+/Engine/Patch/Wham/Mode
+/Engine/Patch/Wham/Offset
+/Engine/Patch/Wham/On
+/Engine/Patch/Wham/Pitch
+/Engine/Patch/White Boost 2/Bass
+/Engine/Patch/White Boost 2/Gain
+/Engine/Patch/White Boost 2/On
+/Engine/Patch/White Boost 2/Treble
+/Engine/Patch/White Boost 2/Volume
+/Engine/Patch/White Boost/Bass
+/Engine/Patch/White Boost/Gain
+/Engine/Patch/White Boost/On
+/Engine/Patch/White Boost/Treble
+/Engine/Patch/White Boost/Volume
+/Engine/Pedal%1/AssignmentColour%2
+/Engine/Pedal%1/ModuleList%2
+/Engine/Pedal%1/Param%2
+/Engine/Pedal%1/ParamList%2
+/Engine/Pedal1/Max1
+/Engine/Pedal1/Max2
+/Engine/Pedal1/Max3
+/Engine/Pedal1/Max4
+/Engine/Pedal1/Min1
+/Engine/Pedal1/Min2
+/Engine/Pedal1/Min3
+/Engine/Pedal1/Min4
+/Engine/Pedal1/MoveDst
+/Engine/Pedal1/MoveSrc
+/Engine/Pedal1/PedalMode
+/Engine/Pedal2/Max1
+/Engine/Pedal2/Max2
+/Engine/Pedal2/Max3
+/Engine/Pedal2/Max4
+/Engine/Pedal2/Min1
+/Engine/Pedal2/Min2
+/Engine/Pedal2/Min3
+/Engine/Pedal2/Min4
+/Engine/Pedal2/MoveDst
+/Engine/Pedal2/MoveSrc
+/Engine/PresetCtrl
+/Engine/PresetCtrl/CurrentBlockPresetName
+/Engine/PresetCtrl/CurrentPreset
+/Engine/PresetCtrl/DeleteBlockPresetConfirmed
+/Engine/PresetCtrl/LoadBlockPreset
+/Engine/PresetCtrl/LoadRig%1
+/Engine/PresetCtrl/LoadSetRig%1
+/Engine/PresetCtrl/NextBank
+/Engine/PresetCtrl/NextPreset
+/Engine/PresetCtrl/NextSetBank
+/Engine/PresetCtrl/NextSetRigBank
+/Engine/PresetCtrl/NextSetlistRig
+/Engine/PresetCtrl/NextSetlistSong
+/Engine/PresetCtrl/PrevBank
+/Engine/PresetCtrl/PrevPreset
+/Engine/PresetCtrl/PrevSetBank
+/Engine/PresetCtrl/PrevSetRigBank
+/Engine/PresetCtrl/PrevSetlistRig
+/Engine/PresetCtrl/PrevSetlistSong
+/Engine/PresetCtrl/RenameBlockPresetConfirmed
+/Engine/PresetCtrl/Resources/
+/Engine/PresetCtrl/Resources/DisplayedFileName
+/Engine/PresetCtrl/Resources/IRNotFound
+/Engine/PresetCtrl/Resources/IRNotFound2
+/Engine/PresetCtrl/Resources/IRNotFound2_B
+/Engine/PresetCtrl/Resources/IRNotFoundLite
+/Engine/PresetCtrl/Resources/IRNotFoundLite2
+/Engine/PresetCtrl/Resources/IRNotFoundLite2_B
+/Engine/PresetCtrl/Resources/IRNotFoundLite_B
+/Engine/PresetCtrl/Resources/IRNotFound_B
+/Engine/PresetCtrl/Resources/ImpulseResponseDirectoryList
+/Engine/PresetCtrl/Resources/ImpulseResponseFileList
+/Engine/PresetCtrl/RigColour%1
+/Engine/PresetCtrl/RigName%1
+/Engine/PresetCtrl/Rigs/Dirty
+/Engine/PresetCtrl/Rigs/LoadedColor
+/Engine/PresetCtrl/Rigs/LoadedProgNum
+/Engine/PresetCtrl/SaveBlockPreset
+/Engine/PresetCtrl/SaveBlockPresetConfirmed
+/Engine/PresetCtrl/SelectedBlockIndex
+/Engine/PresetCtrl/SetName%1
+/Engine/PresetCtrl/SetRigColour%1
+/Engine/PresetCtrl/SetRigName%1
+/Engine/RedirCtrl/
+/Engine/RedirCtrl/AccessParam1
+/Engine/RedirCtrl/AccessParam2
+/Engine/RedirCtrl/AccessParam3
+/Engine/RedirCtrl/AccessParam4
+/Engine/RedirCtrl/AccessParam5
+/Engine/RedirCtrl/AccessParam6
+/Engine/RedirCtrl/AccessRigView
+/Engine/RedirCtrl/AccessSet%1
+/Engine/RedirCtrl/AccessTuner
+/Engine/RedirCtrl/AllowLowerFSNonExclusive
+/Engine/RedirCtrl/AllowUpperFSNonExclusive
+/Engine/RedirCtrl/BoardMode
+/Engine/RedirCtrl/BoardMode/
+/Engine/RedirCtrl/Button%1
+/Engine/RedirCtrl/ButtonCol%1
+/Engine/RedirCtrl/ButtonColDimmed%1
+/Engine/RedirCtrl/ButtonSimul%1
+/Engine/RedirCtrl/ButtonText%1
+/Engine/RedirCtrl/ButtonTextLow%1
+/Engine/RedirCtrl/ButtonTimer%1
+/Engine/RedirCtrl/CarouselResetToZero
+/Engine/RedirCtrl/CurAmpUIFile
+/Engine/RedirCtrl/CurModule
+/Engine/RedirCtrl/CurModuleId
+/Engine/RedirCtrl/CurModuleType
+/Engine/RedirCtrl/CurModuleWithDoubled
+/Engine/RedirCtrl/CurrentModuleColour
+/Engine/RedirCtrl/DoubleModuleSelected%1
+/Engine/RedirCtrl/DoubleStates%1
+/Engine/RedirCtrl/Doubling%1
+/Engine/RedirCtrl/DummyAction
+/Engine/RedirCtrl/EditModuleName
+/Engine/RedirCtrl/EditParam
+/Engine/RedirCtrl/EnableDevAccessChange
+/Engine/RedirCtrl/EncStribHi%1
+/Engine/RedirCtrl/EncStribLo%1
+/Engine/RedirCtrl/Encoder%1
+/Engine/RedirCtrl/EncoderFieldColour%1
+/Engine/RedirCtrl/EncoderFocus
+/Engine/RedirCtrl/EncoderIsPedalAssigned%1
+/Engine/RedirCtrl/EncoderIsPedalLocked%1
+/Engine/RedirCtrl/Exit
+/Engine/RedirCtrl/ExitLooper
+/Engine/RedirCtrl/ExitTuner
+/Engine/RedirCtrl/HandsfreeInfoText
+/Engine/RedirCtrl/InFreeHandsMode
+/Engine/RedirCtrl/InputModuleSelected
+/Engine/RedirCtrl/InputModuleSelectedGuit
+/Engine/RedirCtrl/ModuleSelected%1
+/Engine/RedirCtrl/NodeMixModuleSelected
+/Engine/RedirCtrl/On%1
+/Engine/RedirCtrl/OutputModuleSelected
+/Engine/RedirCtrl/ParamColour%1
+/Engine/RedirCtrl/ParamFineDecrease
+/Engine/RedirCtrl/ParamFineIncrease
+/Engine/RedirCtrl/ParamLeft
+/Engine/RedirCtrl/ParamName%1
+/Engine/RedirCtrl/ParamNameHi%1
+/Engine/RedirCtrl/ParamNameLo%1
+/Engine/RedirCtrl/ParamPedalAssigned%1
+/Engine/RedirCtrl/ParamPedalLocked%1
+/Engine/RedirCtrl/ParamRedirected%1
+/Engine/RedirCtrl/ParamRight
+/Engine/RedirCtrl/PedalRedirected
+/Engine/RedirCtrl/RawFootswitches/FS%1
+/Engine/RedirCtrl/ReverseHybrid
+/Engine/RedirCtrl/SelectBModule
+/Engine/RedirCtrl/SelectEditMode%1
+/Engine/RedirCtrl/SelectHybridMode
+/Engine/RedirCtrl/SelectLooperMode
+/Engine/RedirCtrl/SelectModeMode
+/Engine/RedirCtrl/SelectPedalMode
+/Engine/RedirCtrl/SelectRigMode
+/Engine/RedirCtrl/SelectSetMode
+/Engine/RedirCtrl/SelectSongMode
+/Engine/RedirCtrl/ShowUnreleasedEffects
+/Engine/RedirCtrl/StribMidColDimmed%1
+/Engine/RedirCtrl/TextAllRigs
+/Engine/RedirCtrl/TextHybrid
+/Engine/RedirCtrl/TextRig
+/Engine/RedirCtrl/TextSet
+/Engine/RedirCtrl/TextStomp
+/Engine/RigEncoder/Encoder%1
+/Engine/RigEncoder/EncoderAssignmentChanged
+/Engine/RigEncoder/EncoderColour%1
+/Engine/RigEncoder/EncoderTextHi%1
+/Engine/RigEncoder/EncoderTextLo%1
+/Engine/RigEncoder/Module%1
+/Engine/RigEncoder/MoveDst
+/Engine/RigEncoder/MoveSrc
+/Engine/RigEncoder/Param%1
+/Engine/Settings
+/Engine/Settings/ConfirmDirtyFlag
+/Engine/Settings/ResetConfirmed
+/Engine/Settings/ScreenBrightness
+/Engine/TempoCtrl/Tap
+/Engine/TempoCtrl/Tapping
+/Engine/TempoCtrl/Tempo
+
+# OTHER
+/AssignmentColour%1
+/Breakup
+/Breakup2
+/Button%1
+/ButtonSimul%1
+/ButtonText%1
+/ButtonTextLow%1
+/ButtonTimer%1
+/CabType
+/CabType2
+/Colour
+/CurrentModuleColour
+/DoubleStates
+/DoubleStates%1
+/Doubling
+/Doubling%1
+/EffectSubType%1
+/EffectSubTypeAmp%1
+/EffectSubTypeB%1
+/EffectSubTypeBAmp%1
+/Encoder
+/Encoder%1
+/EncoderColour%1
+/EncoderEnter
+/EncoderFieldColour%1
+/EncoderTimer
+/ExtPedal
+/FootSwitch%1
+/FootSwitchColour%1
+/FootSwitchOn%1
+/FootSwitchTimer%1
+/HandsfreeInfoText
+/IRInfoString
+/MaxSize
+/MicType
+/MicType2
+/MinSize
+/ModuleColour%1
+/NextIR
+/OnAxis
+/OnAxis2
+/OutGain
+/OutGain2
+/ParamColour%1
+/ParamRedirected%1
+/PedalRedirected
+/PresetName
+/PrevIR
+/RigDetailsPage/PresetList
+/Root/CreatePropertyIfNotExists
+/Scale
+/Size
+/Threshold
+/Type
+/WhileHeldTarget%1
